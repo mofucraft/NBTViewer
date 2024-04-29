@@ -1,0 +1,7 @@
+name: NBTViewer
+version: '${project.version}'
+main: net.mofucraft.nbtviewer.NBTViewer
+api-version: 1.20
+commands:
+  nbt:
+    description: show nbt
